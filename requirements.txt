@@ -1,0 +1,7 @@
+python == 3.x
+selenium == 4.33.0
+requests == 2.32.3
+beautifulsoup4 == 4.12.3
+pyopenssl == 24.1.0
+burpsuite == professional or community edition
+browsers == chrome, firefox, edge (adjust in the script as needed)
